@@ -1,7 +1,8 @@
 # Workshop on Mixed-Criticality Systems (WMC) 2022
 
-5 December 2022
-Houston, Texas, USA
+5 December 2022 <br>
+@RTSS 2022 <br>
+Houston, Texas, USA <br>
 
 ## Purpose of Workshop
 
@@ -46,6 +47,10 @@ WMC will publish *informal* proceedings. The authors retain the copyright to the
 
 - Zheng Dong (Wayne State University, USA)
 - Xiaotian Dai (University of York, UK)
+
+## Publicity Chair
+
+- Lea Schönberger (TU Dortmund University, Germany)
 
 ## Program Committee
 
