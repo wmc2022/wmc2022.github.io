@@ -39,6 +39,8 @@ Submissions must be in the same format as in the final proceedings (6 pages maxi
 
 By submitting a paper, the authors confirm that if the paper is accepted, at least one author will register for the WMC 2022 workshop by the special registration deadline set in the notification of acceptance, and present the paper at the workshop in person. Papers must be submitted electronically in a pdf format. 
 
+The submission link can be accessed on EasyChair at: https://easychair.org/conferences/?conf=wmc2022
+
 ## Proceedings
 
 WMC will publish *informal* proceedings. The authors retain the copyright to their work and are free to submit extended versions to a conference or journal.
