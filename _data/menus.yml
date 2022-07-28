@@ -1,0 +1,28 @@
+main:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "News"
+    url: "/news/"
+    weight: 2
+  - name: "Organizers"
+    url: "/organizers/"
+    weight: 3
+  - name: "Program"
+    url: "/program/"
+    weight: 4
+  - name: "CFP"
+    url: "/cfp/"
+    weight: 5
+  - name: "Submission"
+    url: "/submission/"
+    weight: 6
+
+    
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Submission"
+    url: "/submission/"
+    weight: 2
