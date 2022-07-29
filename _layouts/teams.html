@@ -7,7 +7,7 @@ bodyClass: "page-teams"
     <h1>WMC 2022 Organizers<h1>
     <h2>Program Co-Chairs</h2>
     <div class="row">
-        {% assign promoted_teams = site.team | where: "promoted", true | sort: "weight" %}
+        {% assign promoted_teams = site.team | where: "chair", true | sort: "weight" %}
         {% for team in promoted_teams %}
         <div class="col-12 col-md-6 mb-2">
             <div class="team team-summary team-summary-large">
@@ -71,7 +71,7 @@ bodyClass: "page-teams"
     
     <h2>Program Committee Members</h2>
     <div class="row pt-6 pb-6">
-        {% assign teams = site.team | where: "promoted", empty | sort: "weight" %}
+        {% assign teams = site.team | where: "tpc", true | sort: "weight" %}
         {% for team in teams %}
         <div class="col-12 col-md-4 mb-3">
             <div class="team team-summary">

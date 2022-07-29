@@ -5,5 +5,6 @@ image: "images/team/Unknown_person.jpg"
 jobtitle: "University of Cambridge, UK"
 linkedinurl: "https://retis.sssup.it/~d.casini/"
 publicity: false
+tpc: true
 weight: 6
 ---

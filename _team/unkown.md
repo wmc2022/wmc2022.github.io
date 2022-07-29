@@ -5,5 +5,6 @@ image: "images/team/Unknown_person.jpg"
 jobtitle: "More TPC members to be confirmed"
 linkedinurl: "https://retis.sssup.it/~d.casini/"
 publicity: false
+tpc: true
 weight: 9
 ---

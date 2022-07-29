@@ -5,5 +5,6 @@ image: "images/team/schoenberger.jpg"
 jobtitle: "TU Dortmund University, Germany"
 linkedinurl: "http://dbis.cs.tu-dortmund.de/cms/en/people/phd-students/schoenberger.html"
 publicity: true
+tpc: true
 weight: 4
 ---

@@ -5,5 +5,6 @@ image: "images/team/Unknown_person.jpg"
 jobtitle: "The Hong Kong Polytechnic University"
 linkedinurl: "https://retis.sssup.it/~d.casini/"
 publicity: false
+tpc: true
 weight: 1
 ---
