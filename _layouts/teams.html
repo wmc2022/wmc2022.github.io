@@ -17,10 +17,10 @@ bodyClass: "page-teams"
                 </div>
                 {% endif %}
                 <div class="team-meta">
-                    <h2 class="team-name">{{ team.title }}</h2>
+                    <a target="_blank" href="{{ team.linkedinurl }}" rel="noreferrer"><h2 class="team-name">{{ team.title }}</h2></a>
                     <p class="team-description">{{ team.jobtitle }}</p>
-                    {% if team.linkedinurl %}
-                    <a target="_blank" href="{{ team.linkedinurl }}" rel="noreferrer">Homepage</a>
+                    {% if team.email %}
+                    <p><em style="text-transform:lowercase; font-size:14px">{{ team.email }}</em></p>
                     {% endif %}
                 </div>
                 <div class="team-content">{{ team.content | truncate: 120 }}</div>
@@ -41,7 +41,7 @@ bodyClass: "page-teams"
                 </div>
                 {% endif %}
                 <div class="team-meta">
-                    <h2 class="team-name">{{ team.title }}</h2>
+                    <a target="_blank" href="{{ team.linkedinurl }}" rel="noreferrer"><h2 class="team-name">{{ team.title }}</h2></a>
                     <p class="team-description">{{ team.jobtitle }}</p>
                 </div>
             </div>

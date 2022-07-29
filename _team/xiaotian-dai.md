@@ -5,5 +5,6 @@ image: "images/team/xiaotian-dai.jpg"
 jobtitle: "University of York, UK"
 linkedinurl: "https://www.xiaotiandai.com"
 promoted: true
+email: "xiaotian.dai@york.ac.uk"
 weight: 2
 ---

@@ -1,9 +1,9 @@
 ---
-title: "Iain Bate"
+title: "Shuai Zhao"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/Unknown_person.jpg"
 jobtitle: "University of York, UK"
-steering: true
-promoted: false
-weight: 1
+linkedinurl: "https://retis.sssup.it/~d.casini/"
+publicity: false
+weight: 5
 ---
