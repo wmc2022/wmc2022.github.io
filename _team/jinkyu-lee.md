@@ -1,10 +1,10 @@
 ---
-title: "Geoffrey Nelissen"
+title: "Jinkyu Lee"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/Unknown_person.jpg"
-jobtitle: "TU Eindhoven"
+jobtitle: "Sungkyunkwan University"
 linkedinurl: ""
 publicity: false
 tpc: true
-weight: 2
+weight: 5
 ---
