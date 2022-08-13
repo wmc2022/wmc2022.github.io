@@ -11,5 +11,5 @@ show_call_box: true
 # WMC 2022 - Workshop on Mixed Criticality Systems.
 
 @RTSS 2022 <br>
-Hoston, Texas, US <br>
+Houston, Texas, US <br>
 5 December 2022 
