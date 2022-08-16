@@ -59,5 +59,5 @@ WMC will publish *informal* proceedings. The authors retain the copyright to the
 ## Steering Committee
 - Iain Bate (University of York, UK)
 - Arvind Easwaran (Nanyang Technological University, Singapore)
-- Zhishan Guo (University of Central Florida, USA)
+- Zhishan Guo (North Carolina State University, USA)
 - Jing Li (New Jersey Institute of Technology, USA)
