@@ -25,7 +25,7 @@ Themes include, but are not limited to:
 - Analysis of worst-case execution times (WCET) relating to MCS.
 - Mixed criticality communications mechanisms and analysis, including Network-on-Chip support.
 - Safety and fault-tolerance mechanisms for real-time MCS systems.
-- Probabilistic analysis techniques for MCS.
+- Machine learning and probabilistic techniques for MCS and RTS.
 - Timing analysis and predictability of autonomous systems in a MCS context.
 
 The scope of the workshop is real-time, mixed criticality systems. Papers that do not relate to real-time behaviour (i.e. are solely about security or safety aspects of MCS) will be considered as out of scope.
