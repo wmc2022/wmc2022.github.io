@@ -13,7 +13,7 @@ The workshop aims to promote understanding of the fundamental problems that affe
 
 ## Important Dates
 
-**Submission deadline**: 12 September 2022 ~~5 September 2022~~ <br>
+**Submission deadline**: 12 September 2022 ← ~~5 September 2022~~ <br>
 **Notification of acceptance**: 17 October 2022 <br>
 **Final version**: 31 October 2022 <br>
 **Workshop day**: 5 December 2022 <br>
