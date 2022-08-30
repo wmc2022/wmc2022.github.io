@@ -6,7 +6,7 @@ permalink: "/cfp/"
 bodyClass: page-about
 ---
 
-[\[PDF Version\]](/assets/WMC_2022_CFP.pdf)
+[\[PDF Version\]](/assets/WMC_2022_CFP_extended.pdf)
 
 ## Purpose of Workshop
 
