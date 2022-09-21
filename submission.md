@@ -9,9 +9,11 @@ description: Submission
 
 Submissions must be in the same format as in the final proceedings (6 pages maximum, 2 columns, 10 pt, US Letter) compliant with the IEEE formatting guidelines. Papers exceeding the page limit will not be reviewed. The material must be *unpublished* and *not under submission* elsewhere. Papers must be submitted electronically in a pdf format. 
 
+For work-in-progress and journal presentation, the page limitation of the long abstract is 2-4.
+
 ## Registration and Presentation
 
-By submitting a paper, the authors confirm that if the paper is accepted, at least one author will register for the WMC 2022 workshop by the special registration deadline set in the notification of acceptance, and present the paper at the workshop in person. 
+By submitting a paper, the authors confirm that if the paper is accepted, at least one author will register for the WMC 2022 workshop by the special registration deadline set in the notification of acceptance, and present the paper at the workshop either in person or online. 
 
 ## Proceedings
 
