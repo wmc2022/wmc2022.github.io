@@ -14,9 +14,9 @@ The workshop aims to promote understanding of the fundamental problems that affe
 ## Important Dates
 
 **Submission deadline**: 12 September 2022 ← ~~5 September 2022~~ <br>
-**Submission deadline for WiP and journal presentation**: 9 October 2022 <br>
+**Deadline for Work-already-Published (WaP)**: 9 October 2022 <br>
 **Notification of acceptance**: 31 October 2022 ← ~~17 October 2022~~<br>
 **Final version**: 7 Novermber 2022 <br>
-**Workshop day**: 5 December 2022 <br>
+**Workshop**: 5 December 2022 <br>
 
 <br>
