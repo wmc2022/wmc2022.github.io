@@ -22,6 +22,10 @@ Prof. Jian-Jia Chen from TU Dortmund will talk his work: "Probabilistic Real-Tim
 
 ## Workshop Schedule
 
+**Date:** Monday, December 5th, 2022
+
+**Location:** Bluebonnet Room in DoubleTree by Hilton Hotel Houston
+
 | **Session**                                  | **Time**      | **Details**                                                                                                                                                                                                                                 |
 |----------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Openning & Welcome                           | 9:00 - 9:15 |  The co-chairs Zheng Dong and Xiaotian Dai will give a brief introduction and a warm welcome.                                                                                                                                                                                                                                            |
