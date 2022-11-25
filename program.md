@@ -14,11 +14,15 @@ The 9th WMC workshop will be held jointly with [RTSS 2022](http://2022.rtss.org/
 
 Starting with a keynote from Prof Jian-Jia Chen, the workshop will have three sessions -- two of which in the morning and one in the afternoon. Each speaker is allocated a time slot of 20 minutes, where 15 minutes are for presentation and 5 minutes are for questions.
 
+[[Registration]](https://cvent.me/G4yLL1) 
+
 ## Keynote
 
 ![](/images/jjchen.jpg)
 
-Prof. Jian-Jia Chen from TU Dortmund will talk his work: "Probabilistic Real-Time Scheduling and its Possible Link to Mixed-Criticality Systems", by Georg von der Brüggen, Sergey Bozhko, Mario Günzel, Kuan-Hsun Chen, Jian-Jia Chen and Björn Brandenburg.
+Prof. Jian-Jia Chen, TU Dortmund, Germany
+
+Prof. Chen will talk his work: "Probabilistic Real-Time Scheduling and its Possible Link to Mixed-Criticality Systems", by Georg von der Brüggen, Sergey Bozhko, Mario Günzel, Kuan-Hsun Chen, Jian-Jia Chen and Björn Brandenburg.
 
 ## Workshop Schedule
 
