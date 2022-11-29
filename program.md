@@ -8,6 +8,8 @@ bodyClass: page-about
 
 Workshop program of WMC @ RTSS'22.
 
+[[Download WMC 2022 Proceedings]](https://wmc2022.github.io/assets/WMC_2022_Proceedings.pdf)
+
 ## Format of the Workshop
 
 The 9th WMC workshop will be held jointly with [RTSS 2022](http://2022.rtss.org/) in a *hybrid* form.
