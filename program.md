@@ -20,11 +20,19 @@ Starting with a keynote from Prof Jian-Jia Chen, the workshop will have three se
 
 ## Keynote
 
+Title:  **Probabilistic Real-Time Scheduling and its Possible Link to Mixed-Criticality Systems**  
+Speaker: **Prof. Jian-Jia Chen**, TU Dortmund, Germany
+
 ![](/images/jjchen.jpg)
 
-Prof. Jian-Jia Chen, TU Dortmund, Germany
+Prof. Chen will talk his work: "Probabilistic Real-Time Scheduling and its Possible Link to Mixed-Criticality Systems", by Georg von der Brüggen, Sergey Bozhko, Mario Günzel, Kuan-Hsun Chen, Jian-Jia Chen and Björn Brandenburg. Jian-Jia Chen is Professor at Department of Informatics in TU Dortmund University in Germany.  He was Juniorprofessor at Department of Informatics in Karlsruhe Institute of Technology (KIT) in Germany from May 2010 to March 2014.  He received his Ph.D. degree from Department of Computer Science and Information Engineering, National Taiwan University, Taiwan in 2006. He received his B.S. degree from the Department of Chemistry at National Taiwan University 2001. Between Jan. 2008 and April 2010, he was a postdoc researcher at ETH Zurich, Switzerland. His research interests include real-time systems, embedded systems, energy-efficient scheduling, power-aware designs, temperature-aware scheduling, and distributed computing. He received the European Research Council (ERC) Consolidator Award in 2019. He has received more than 10 Best Paper Awards and Outstanding Paper Awards and has involved in Technical Committees in many international conferences.
 
-Prof. Chen will talk his work: "Probabilistic Real-Time Scheduling and its Possible Link to Mixed-Criticality Systems", by Georg von der Brüggen, Sergey Bozhko, Mario Günzel, Kuan-Hsun Chen, Jian-Jia Chen and Björn Brandenburg.
+### Abstract
+Proving hard real-time guarantees based on a classical analysis may significantly underutilize the processor in the average case. Therefore, instead of considering a very rare worst-case scenario, a probabilistic scheduling analysis determines the probability of a deadline miss. Such an analysis assumes that task execution times are given by a set of modes representing the range of possible execution scenarios. Considering tasks with multiple modes and different levels of assurances, in this case expressed as different probabilities to miss deadlines, for different tasks provides a natural link to mixed-criticality systems.
+
+This work summarizes recent results in probabilistic real-time scheduling and some potential problems that should be considered when linking these results to mixed-criticality systems. In addition, possible connections between mixed-criticality systems and probabilistic analysis are detailed. The goal of this work is to start a discussion to determine whether such probabilistic results may be interesting for mixed-criticality research.
+
+
 
 ## Workshop Schedule
 
