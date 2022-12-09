@@ -8,7 +8,7 @@ bodyClass: page-about
 
 Workshop program of WMC @ RTSS'22.
 
-[[Download WMC 2022 Proceedings]](https://wmc2022.github.io/assets/WMC_2022_Proceedings.pdf)
+[[Proceedings of WMC 2022]](https://wmc2022.github.io/assets/WMC_2022_Proceedings.pdf)
 
 ## Format of the Workshop
 
@@ -16,7 +16,7 @@ The 9th WMC workshop will be held jointly with [RTSS 2022](http://2022.rtss.org/
 
 Starting with a keynote from Prof Jian-Jia Chen, the workshop will have three sessions -- two of which in the morning and one in the afternoon. Each speaker is allocated a time slot of 20 minutes, where 15 minutes are for presentation and 5 minutes are for questions.
 
-[[Registration]](https://cvent.me/G4yLL1) 
+[[Registration of RTSS/WMC]](https://cvent.me/G4yLL1) 
 
 ## Keynote
 
